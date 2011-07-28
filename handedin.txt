@@ -1,0 +1,8 @@
+/cs/csbox/cs313/2011S1/ass7/i0r7:
+total 75
+drwx------  2 cs313   512 Jun 13 14:17 .
+drwx------ 11 cs313   512 Jun 13 13:42 ..
+-rw-------  1 cs313     0 Jun 13 14:17 DateSTAMP
+-rwx------  1 cs313 36903 Jun 13 14:14 v15
+-rw-------  1 cs313 23166 Jun 13 14:14 v15.c
+-rw-------  1 cs313 12743 Jun 13 14:16 v15.output.txt
