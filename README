@@ -1,0 +1,15 @@
+origin: /home/rlum/Documents/UBC/2011Spring/cs313/assign/7
+
+Hardware/OS course project.  With supplied java based framework
+implemented y86 isa instruction sets and then wrote y86 
+assembly to run within simulated cpu.
+
+Three different versions of 5 stage cpu were implemented and
+can be selected on start up.   Run from eclipse and 
+select one of the cpu implementations, the simplest one
+is the sequential that operates sequentially and stalls
+on missing inputs, the most complex is the 5 stage 
+pipleline that implements parallel pipelines with
+data forwarding and branch prediction.
+
+
